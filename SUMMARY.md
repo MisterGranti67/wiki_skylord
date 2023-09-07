@@ -38,7 +38,7 @@
   * [Coffres custom](aldea/les-fonctionnalites/coffres-custom.md)
   * [Hopper custom](aldea/les-fonctionnalites/hopper-custom.md)
   * [Cube Féerique](aldea/les-fonctionnalites/cube-feerique.md)
-  * [La Fuée](aldea/les-fonctionnalites/la-fuee.md)
+  * [Fusée](aldea/les-fonctionnalites/fusee.md)
   * [Challenges](aldea/les-fonctionnalites/challenges/README.md)
     * [Palier 1](aldea/les-fonctionnalites/challenges/palier-1.md)
     * [Palier 2](aldea/les-fonctionnalites/challenges/palier-2.md)
