@@ -1,24 +1,55 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [Skylord](README.md)
+  * [⚖ Règlement](skylord/reglement.md)
 
-## Overview
+## 🚀 Aldéa
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
-
-## Product Guides
-
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
-
-## Fundamentals
-
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
-
-## Use Cases
-
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [Commencer sur Skylord](aldea/commencer-sur-skylord/README.md)
+  * [🚀 Avoir la fusée](aldea/commencer-sur-skylord/avoir-la-fusee.md)
+  * [🏝 Les îles](aldea/commencer-sur-skylord/les-iles/README.md)
+    * [🏝 Créer une île](aldea/commencer-sur-skylord/les-iles/creer-une-ile.md)
+  * [💬 Les commandes de base](aldea/commencer-sur-skylord/les-commandes-de-base.md)
+* [Guide du serveur](aldea/guide-du-serveur/README.md)
+  * [Planètes](aldea/guide-du-serveur/planetes.md)
+  * [Voyages](aldea/guide-du-serveur/voyages.md)
+  * [Métiers](aldea/guide-du-serveur/metiers.md)
+* [Les fonctionnalités](aldea/les-fonctionnalites/README.md)
+  * [Cryptomonnaie](aldea/les-fonctionnalites/cryptomonnaie.md)
+  * [L'électricité](aldea/les-fonctionnalites/lelectricite.md)
+  * [NFT](aldea/les-fonctionnalites/nft.md)
+  * [Les mobs custom](aldea/les-fonctionnalites/les-mobs-custom.md)
+  * [Crafts custom](aldea/les-fonctionnalites/crafts-custom.md)
+  * [Stuffs custom](aldea/les-fonctionnalites/stuffs-custom/README.md)
+    * [Stuff level 1](aldea/les-fonctionnalites/stuffs-custom/stuff-level-1.md)
+    * [Stuff level 2](aldea/les-fonctionnalites/stuffs-custom/stuff-level-2.md)
+    * [Stuff level 3](aldea/les-fonctionnalites/stuffs-custom/stuff-level-3.md)
+    * [Stuff level 4](aldea/les-fonctionnalites/stuffs-custom/stuff-level-4.md)
+    * [Stuff level 5](aldea/les-fonctionnalites/stuffs-custom/stuff-level-5.md)
+    * [Stuff level 6](aldea/les-fonctionnalites/stuffs-custom/stuff-level-6.md)
+    * [Stuff level 7](aldea/les-fonctionnalites/stuffs-custom/stuff-level-7.md)
+    * [Stuff level 8](aldea/les-fonctionnalites/stuffs-custom/stuff-level-8.md)
+    * [Stuff level 9](aldea/les-fonctionnalites/stuffs-custom/stuff-level-9.md)
+    * [Stuff Clochette](aldea/les-fonctionnalites/stuffs-custom/stuff-clochette.md)
+    * [Stuff Maléfique](aldea/les-fonctionnalites/stuffs-custom/stuff-malefique.md)
+    * [Stuff Ultime](aldea/les-fonctionnalites/stuffs-custom/stuff-ultime.md)
+    * [Stuff Cyber](aldea/les-fonctionnalites/stuffs-custom/stuff-cyber.md)
+  * [Bâtons de vente](aldea/les-fonctionnalites/batons-de-vente.md)
+  * [Coffres custom](aldea/les-fonctionnalites/coffres-custom.md)
+  * [Hopper custom](aldea/les-fonctionnalites/hopper-custom.md)
+  * [Cube Féerique](aldea/les-fonctionnalites/cube-feerique.md)
+  * [La Fuée](aldea/les-fonctionnalites/la-fuee.md)
+  * [Challenges](aldea/les-fonctionnalites/challenges/README.md)
+    * [Palier 1](aldea/les-fonctionnalites/challenges/palier-1.md)
+    * [Palier 2](aldea/les-fonctionnalites/challenges/palier-2.md)
+    * [Palier 3](aldea/les-fonctionnalites/challenges/palier-3.md)
+    * [Palier 4](aldea/les-fonctionnalites/challenges/palier-4.md)
+    * [Palier 5](aldea/les-fonctionnalites/challenges/palier-5.md)
+    * [Palier 6](aldea/les-fonctionnalites/challenges/palier-6.md)
+    * [Palier 7](aldea/les-fonctionnalites/challenges/palier-7.md)
+    * [Palier 8](aldea/les-fonctionnalites/challenges/palier-8.md)
+    * [Palier 9](aldea/les-fonctionnalites/challenges/palier-9.md)
+    * [Palier 10](aldea/les-fonctionnalites/challenges/palier-10.md)
+  * [Scotty](aldea/les-fonctionnalites/scotty.md)
+  * [Les shops](aldea/les-fonctionnalites/les-shops.md)
+  * [Télépads](aldea/les-fonctionnalites/telepads.md)
