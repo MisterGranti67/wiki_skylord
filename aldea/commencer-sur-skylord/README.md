@@ -17,6 +17,8 @@ Attention ! La version du serveur est : **1.19.4**\
 
 </details>
 
+***
+
 {% content-ref url="avoir-la-fusee.md" %}
 [avoir-la-fusee.md](avoir-la-fusee.md)
 {% endcontent-ref %}
