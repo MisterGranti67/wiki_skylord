@@ -9,6 +9,8 @@
   * [🚀 Avoir la fusée](aldea/commencer-sur-skylord/avoir-la-fusee.md)
   * [🏝 Les îles](aldea/commencer-sur-skylord/les-iles/README.md)
     * [🏝 Créer une île](aldea/commencer-sur-skylord/les-iles/creer-une-ile.md)
+    * [🏝 Inviter des amis](aldea/commencer-sur-skylord/les-iles/inviter-des-amis.md)
+    * [🏝 Les commandes des îles](aldea/commencer-sur-skylord/les-iles/les-commandes-des-iles.md)
   * [💬 Les commandes de base](aldea/commencer-sur-skylord/les-commandes-de-base.md)
 * [Guide du serveur](aldea/guide-du-serveur/README.md)
   * [Planètes](aldea/guide-du-serveur/planetes.md)
