@@ -64,3 +64,5 @@
   * [Scotty](aldea/les-fonctionnalites/scotty.md)
   * [Les shops](aldea/les-fonctionnalites/les-shops.md)
   * [Télépads](aldea/les-fonctionnalites/telepads.md)
+* [Version](aldea/version/README.md)
+  * [Version 2.5.0 - Phoenotis](aldea/version/version-2.5.0-phoenotis.md)
