@@ -312,7 +312,7 @@ Pour y accéder : **/menu**
 Voici la liste des fonctionnalités :&#x20;
 
 * Téléportation sur l'île
-* Pramètres (C'est nouveau, et encore en BETA. Vous pouvez paramétrez l'affichage de certains choses sur le serveur, comme le scoreboard, quand l'inventaire est plein, etc..)
+* Paramètres (C'est nouveau, et encore en BETA. Vous pouvez paramétrez l'affichage de certains choses sur le serveur, comme le scoreboard, quand l'inventaire est plein, etc..)
 * Classement d'île
 * Kits
 * Votes
