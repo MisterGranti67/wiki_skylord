@@ -67,11 +67,59 @@ Chaque item ou poissons que vous allez pêcher seront catégorisés de cette fa�
 * Rare
 * Légendaire
 
+Il faut faire attention, certains items custom pêché sont de simples items, et ne peuvent être vendu ! (Comme bob l'éponge, qui est une simple éponge)
 
+Un classement est aussi disponible afin d'avoir un peu de compétitions entre vous !&#x20;
+
+<figure><img src="../../.gitbook/assets/2023-12-05_08.52.25.png" alt=""><figcaption></figcaption></figure>
 
 
 
 ### L'agriculture
+
+#### Achat de graines
+
+Avant de commencer toute plantation, il vous faut acheter des graines.
+
+Vous trouerez au /spawn un fermier. Faites clique-gauche dessus pour ouvrir l'achat de graines.![](../../.gitbook/assets/2023-12-05\_08.55.10.png)![](../../.gitbook/assets/2023-12-05\_08.55.53.png)
+
+#### Activation du tracteur
+
+Pour faire apparaitre votre Tracteur, il suffit simplement de faire **/tracteur** sur votre île&#x20;
+
+<figure><img src="../../.gitbook/assets/2023-12-05_08.57.22.png" alt=""><figcaption></figcaption></figure>
+
+Vous avez ensuite deux fonctionnalités :&#x20;
+
+#### Gestion des graines
+
+Cliquez sur la remorque dans l'inventaire du tracteur : ![](../../.gitbook/assets/image.png)
+
+Vous avez maintenant une liste de graines, il vous suffit de faire clique gauche pour ajouter +1 graine ou clique droit pour en enlever 1.
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+
+
+#### Gestion du tracteur
+
+Cliquez sur la tracteur dans l'inventaire du tracteur : ![](<../../.gitbook/assets/image (1).png>)
+
+Vous avez deux fonctionnalités dans cette inventaire, la première c'est le type de graine sélectionné.\
+C'est se que votre tracteur pourra planter. ![](../../.gitbook/assets/2023-12-05\_09.00.59.png)
+
+Vous avez ensuite la fonction du tracteur. Il y a pour le moment la **moisson**  qui permet au tracteur de récolter les plantations, qu'elles soient totalement poussés ou non.\
+Mais aussi le fonction de **plantation** qui permet de planter la graine choisis dans la graine sélectionnée.&#x20;
+
+#### Ventes des plantations
+
+La dernière étape, c'est la vente des plantations, il vous suffit d'aller revoir le fermier au spawn&#x20;
+
+
+
+
+
+
 
 ### Outils
 
