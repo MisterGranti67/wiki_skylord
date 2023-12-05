@@ -115,11 +115,7 @@ Mais aussi le fonction de **plantation** qui permet de planter la graine choisis
 
 La dernière étape, c'est la vente des plantations, il vous suffit d'aller revoir le fermier au spawn&#x20;
 
-
-
-
-
-
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### Outils
 
