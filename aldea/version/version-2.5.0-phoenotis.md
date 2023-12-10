@@ -460,45 +460,110 @@ D'autres petites modifications sur Scotty :&#x20;
 
 ### Crafts
 
+Nous avons changé une grande partie des crafts custom. Vous pouvez aller vérifier celà en faisant **SHIFT+CLIQUE sur une table de craft**
+
 ### Tutoriel
+
+Un nouveau système de quête du début a été mis en place, vous parcourez chacune des planètes du serveur.\
+(Plus besoin d'aller trouver le chat d'Alice !)
 
 ### Crypto-monnaie
 
 #### Créateur d'essence
 
-#### Rigs
+<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+
+Vous pouvez maintenant ajouter tout votre inventaire directement en cliquant sur le bouton "**ajouter tout l'inventaire**"
 
 ### établi avancé
 
+<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+
+Nous avons ajouté un bloc d'établi intergalactique, qui vous permet d'accéder à l'établi directement en cliquant dessus.
+
 ### Oréus
-
-### Aerion
-
-### Arborea
-
-### Divers
-
-#### Antidrop
 
 #### GPS
 
+<figure><img src="../../.gitbook/assets/2023-12-10_17.42.38.png" alt=""><figcaption></figcaption></figure>
+
+Vous pouvez maintenant utiliser le GPS pour vous indiquer où sont les différentes zones des minerais
+
+#### MAP
+
+<figure><img src="../../.gitbook/assets/2023-12-10_17.43.41.png" alt=""><figcaption></figcaption></figure>
+
+La map des différentes zones de minerais a été mise dans le bon sens !
+
+### Aerion
+
+#### GPS
+
+<figure><img src="../../.gitbook/assets/2023-12-10_17.44.31.png" alt=""><figcaption></figcaption></figure>
+
+Vous pouvez maintenant utiliser le GPS pour vous indiquer où sont les différentes zones des mobs custom
+
+### Arborea
+
+Quelques modifications sur Arborea :&#x20;
+
+* Nous avons enlevé les 6 niveaux de colliers, et remplacé par 1 niveau.
+* Nous avons ajouté la compatibilité avec la hache magique et la cisaille magique
+
+### Divers
+
+#### GPS
+
+<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+
+Vous avez désormais un bouton pour stopper le gps
+
 #### Chat
+
+<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+
+Vous pouvez maintenant utiliser des variables dans le chat.\
+Pour accéder à la liste des variables, faites **/liste**&#x20;
 
 #### Fusée
 
+<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+
+Nous avons ajouté des indications dans le menu du conducteur, pour savoir les différentes fonctionnalités de chacune des planètes
+
 #### Boxs
+
+<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+
+Nouvelle box Bonus ! Cette box est obtenable en fonction des actions que vous effectuez sur le serveur.
+
+* Quand vous complétez les challenges
+* Quand vous achetez des éléments de crypto-monnaie (3 max par jour)
+* Quand vous réparez +100 utilisations au forgeron (3 max par jour)
+* Quand vous achetez des parchemins
+* Un peu partout
 
 #### Prix du forgeron
 
+Nous avons baissé le prix de réparation du forgeron. Divisé par 2 !
+
 #### Délai d'expiration du /ah
+
+Le délai d'expiration des items du /ah passe de 24h à 14 jours !
 
 #### Wiki & Zone informations
 
+Bienvenue ! C'est ici, un espace spécialement conçu pour avoir toutes les informations en détail du serveur.
 
+#### Nouvelle île
 
+<figure><img src="../../.gitbook/assets/2023-12-10_17.36.41.png" alt=""><figcaption></figcaption></figure>
 
+Plusieurs indications sur cette nouvelle île :&#x20;
 
-
+* D'aller au **/info**
+* A quoi sert le générateur
+* Un emplacement pour faire **/fusée**
 
 ####
 
