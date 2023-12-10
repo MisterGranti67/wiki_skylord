@@ -79,4 +79,4 @@
     * [Version 2.4.0 - Halloween](aldea/version/version-2.0.0-aldea/version-2.4.0-halloween.md)
     * [Version 2.5.0 - Phoenotis](aldea/version/version-2.5.0-phoenotis.md)
       * [Version 2.5.1 - Noël](aldea/version/version-2.0.0-aldea/version-2.5.0-phoenotis/version-2.5.1-noel.md)
-      * [Version 2.5.2](aldea/version/version-2.0.0-aldea/version-2.5.0-phoenotis/version-2.5.2.md)
+      * [Version 2.5.2 - L'énergie](aldea/version/version-2.0.0-aldea/version-2.5.0-phoenotis/version-2.5.2-lenergie.md)
