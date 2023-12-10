@@ -406,6 +406,58 @@ D'autres petites modifications sur Scotty :&#x20;
 
 
 
+<table><thead><tr><th width="131">Challenge</th><th>Type</th></tr></thead><tbody><tr><td>1</td><td>Miner 10 pierres</td></tr><tr><td>2</td><td>Couper 25 bûches de chêne</td></tr><tr><td>3</td><td>Pêcher 2 morues</td></tr><tr><td>4</td><td>Tuer 5 Zombies et 5 Squelettes</td></tr><tr><td>5</td><td>Récolter 10 de blé</td></tr><tr><td>6</td><td>Poser 25 de terre</td></tr><tr><td>7</td><td>Marcher 30 blocs</td></tr><tr><td>8</td><td>Obtenir 5 level jobs sur chacun des métiers</td></tr><tr><td>9</td><td>Acheter 1 Ethereum</td></tr><tr><td>10</td><td>Jouer 1 heure sur votre île</td></tr></tbody></table>
+
+#### Palier 2
+
+<table><thead><tr><th width="131">Challenge</th><th>Type</th></tr></thead><tbody><tr><td>1</td><td>Miner 50 minerais de charbon</td></tr><tr><td>2</td><td>Pêcher 10 saumons</td></tr><tr><td>3</td><td>Enchanter un plastron en diamant</td></tr><tr><td>4</td><td>Tuer 35 Creepers</td></tr><tr><td>5</td><td>Voter 2 fois sur le serveur</td></tr><tr><td>6</td><td>Faire 500 dégâts</td></tr><tr><td>7</td><td>Manger 10 pains</td></tr><tr><td>8</td><td>Obtenir 10 level jobs sur chacun des métiers</td></tr><tr><td>9</td><td>Acheter 1 Bitcoin</td></tr><tr><td>10</td><td>Jouer 2 heures sur votre île</td></tr></tbody></table>
+
+#### Palier 3
+
+<table><thead><tr><th width="131">Challenge</th><th>Type</th></tr></thead><tbody><tr><td>1</td><td>Miner 150 minerais de fer</td></tr><tr><td>2</td><td>Couper 100 bûches de bouleau</td></tr><tr><td>3</td><td>Compléter un parchemin céleste de niveau Simple</td></tr><tr><td>4</td><td>Tuer 10 rats sur Aerion</td></tr><tr><td>5</td><td>Avoir une pioche de level 1 dans son inventaire</td></tr><tr><td>6</td><td>Traire 30 vaches</td></tr><tr><td>7</td><td>Fabriquer 32 enclumes</td></tr><tr><td>8</td><td>Obtenir 15 level jobs sur chacun des métiers</td></tr><tr><td>9</td><td>Acheter 5000 Polkado</td></tr><tr><td>10</td><td>Jouer 3 heures sur votre île</td></tr></tbody></table>
+
+#### Palier 4
+
+<table><thead><tr><th width="131">Challenge</th><th>Type</th></tr></thead><tbody><tr><td>1</td><td>Miner 250 minerais de fer</td></tr><tr><td>2</td><td>Pêcher 5 poissons globes</td></tr><tr><td>3</td><td>Fabriquer 16 pommes dorées</td></tr><tr><td>4</td><td>Tuer 25 Moustiques sur Aerion</td></tr><tr><td>5</td><td>Compléter un parchemin céleste de niveau Rare</td></tr><tr><td>6</td><td>Casser 3000 citrouilles</td></tr><tr><td>7</td><td>Infliger 15 000 dégâts</td></tr><tr><td>8</td><td>Obtenir 20 level jobs sur chacun des métiers</td></tr><tr><td>9</td><td>Avoir 250 000 dollars</td></tr><tr><td>10</td><td>Jouer 6 heures sur votre île</td></tr></tbody></table>
+
+#### Palier 5
+
+<table><thead><tr><th width="131">Challenge</th><th>Type</th></tr></thead><tbody><tr><td>1</td><td>Miner 300 minerais d'émeraude</td></tr><tr><td>2</td><td>Couper 400 bûches d'acacia</td></tr><tr><td>3</td><td>Avoir une jambière de niveau 2 dans son inventaire</td></tr><tr><td>4</td><td>Tuer 45 Orc Minions sur Aerion</td></tr><tr><td>5</td><td>Remplir 50 sceaux de lave</td></tr><tr><td>6</td><td>Concocter 50 potions</td></tr><tr><td>7</td><td>Acheter 1 toile de NFT</td></tr><tr><td>8</td><td>Obtenir 30 level jobs sur chacun des métiers</td></tr><tr><td>9</td><td>Acheter 1 000 000 de Dodgecoin</td></tr><tr><td>10</td><td>Jouer 12 heures sur votre île</td></tr></tbody></table>
+
+#### Palier 6
+
+<table><thead><tr><th width="131">Challenge</th><th>Type</th></tr></thead><tbody><tr><td>1</td><td>Miner 64 minerais de Tanzanite</td></tr><tr><td>2</td><td>Pêcher 16 poissons tropicaux</td></tr><tr><td>3</td><td>Traire 500 vaches</td></tr><tr><td>4</td><td>Tuer 100 araignées (custom) sur Aerion </td></tr><tr><td>5</td><td>Compléter un parchemin céleste de niveau Difficile</td></tr><tr><td>6</td><td>Enchanter 2 jambières en netherite</td></tr><tr><td>7</td><td>Infliger 2000 dégâts lors d'une expédition</td></tr><tr><td>8</td><td>Obtenir 45 level jobs sur chacun des métiers</td></tr><tr><td>9</td><td>Avoir 500 000 dollars</td></tr><tr><td>10</td><td>Jouer 1 jour</td></tr></tbody></table>
+
+#### Palier 7
+
+<table><thead><tr><th width="131">Challenge</th><th>Type</th></tr></thead><tbody><tr><td>1</td><td>Miner 128 minerais de Tanzanite</td></tr><tr><td>2</td><td>Tuer 50 sangsues sur Aerion</td></tr><tr><td>3</td><td>Casser 10 000 bambous</td></tr><tr><td>4</td><td>Compléter un parchemin céleste de niveau Légendaire</td></tr><tr><td>5</td><td>Tondre 250 moutons</td></tr><tr><td>6</td><td>Tuer 50 Orcs guerriers</td></tr><tr><td>7</td><td>Infliger 9 000 dégâts lors d'une expédition</td></tr><tr><td>8</td><td>Obtenir 60 level jobs sur chacun des métiers</td></tr><tr><td>9</td><td>Avoir 650 000 dollars</td></tr><tr><td>10</td><td>Jouer 3 jours</td></tr></tbody></table>
+
+#### Palier 8
+
+<table><thead><tr><th width="131">Challenge</th><th>Type</th></tr></thead><tbody><tr><td>1</td><td>Miner 256 minerais de chaque (Charbon, fer, diamant, émeraude, tanzanite)</td></tr><tr><td>2</td><td>Tuer 75 Orc archers sur Aerion</td></tr><tr><td>3</td><td>Compléter un parchemin céleste de niveau Mythique</td></tr><tr><td>4</td><td>Manger 100 pains</td></tr><tr><td>5</td><td>Récolter 10 000 (Patates, carottes, betteraves, citrouilles, pastèques, blés)</td></tr><tr><td>6</td><td>Tuer 100 nains guerriers</td></tr><tr><td>7</td><td>Consommer 16 poissons globes</td></tr><tr><td>8</td><td>Obtenir 75 level jobs sur chacun des métiers</td></tr><tr><td>9</td><td>Avoir 5 000 000 dollars</td></tr><tr><td>10</td><td>Jouer 4 jours</td></tr></tbody></table>
+
+#### Palier 9
+
+<table><thead><tr><th width="131">Challenge</th><th>Type</th></tr></thead><tbody><tr><td>1</td><td>Pêcher 10 selles</td></tr><tr><td>2</td><td>Tuer 125 nains archers sur Aerion</td></tr><tr><td>3</td><td>Casser 25 000 pastèques</td></tr><tr><td>4</td><td>Parcourir 25 000 blocs</td></tr><tr><td>5</td><td>Enchanter 128 houes en bois</td></tr><tr><td>6</td><td>Tuer 150 prêtres nains sur Aerion</td></tr><tr><td>7</td><td>Equiper une bague de résistance de niveau 2 à ton Scotty</td></tr><tr><td>8</td><td>Obtenir 90 level jobs sur chacun des métiers</td></tr><tr><td>9</td><td>Acheter 350 Bitcoins</td></tr><tr><td>10</td><td>Jouer 6 jours</td></tr></tbody></table>
+
+#### Palier 10
+
+<table><thead><tr><th width="131">Challenge</th><th>Type</th></tr></thead><tbody><tr><td>1</td><td>Miner 2048 minerais de chaque (Charbon, fer, diamant, émeraude, tanzanite)</td></tr><tr><td>2</td><td>Tuer 125 orcs géants sur Aerion</td></tr><tr><td>3</td><td>Infliger 500 000 points de dégâts</td></tr><tr><td>4</td><td>Casser 150 000 pierres</td></tr><tr><td>5</td><td>Casser 80 000 lianes</td></tr><tr><td>6</td><td>Tuer 300 rois des rats sur Aerion</td></tr><tr><td>7</td><td>Casser 150 000 citrouilles</td></tr><tr><td>8</td><td>Obtenir 105 level jobs sur chacun des métiers</td></tr><tr><td>9</td><td>Avoir 10 000 000 dollars</td></tr><tr><td>10</td><td>Jouer 9 jours</td></tr></tbody></table>
+
+#### Palier 11
+
+<table><thead><tr><th width="131">Challenge</th><th>Type</th></tr></thead><tbody><tr><td>1</td><td>Couper 4096 Bûches de chêne, bouleau, sapin, chêne noir, jungle, acacia</td></tr><tr><td>2</td><td>Tuer 150 Bokoblin shaman</td></tr><tr><td>3</td><td>Fondre 4096 minerais de diamants</td></tr><tr><td>4</td><td>transformer 4096 citrouilles en citrouilles d'halloween</td></tr><tr><td>5</td><td>Poser 25 000 obsidiennes</td></tr><tr><td>6</td><td>Tuer 200 Moblin brute sur Aerion</td></tr><tr><td>7</td><td>Fabriquer 4096 yeux de l'ender</td></tr><tr><td>8</td><td>Obtenir 120 level jobs sur chacun des métiers</td></tr><tr><td>9</td><td>Acheter 20 000 ethereum</td></tr><tr><td>10</td><td>Jouer 15 jours</td></tr></tbody></table>
+
+#### Palier 12
+
+<table><thead><tr><th width="131">Challenge</th><th>Type</th></tr></thead><tbody><tr><td>1</td><td>Miner 4096 minerais de chaque (Charbon, fer, or, diamant, émeraude, tanzanite)</td></tr><tr><td>2</td><td>Tuer 600 rois orc</td></tr><tr><td>3</td><td>Casser 256 épées en netherite</td></tr><tr><td>4</td><td>Poser 100 000 blocs d'herbe</td></tr><tr><td>5</td><td>Tondre 5000 moutons roses</td></tr><tr><td>6</td><td>Tuer 500 nains forgeron</td></tr><tr><td>7</td><td>Pêcher 5000 fois</td></tr><tr><td>8</td><td>Obtenir 135 level jobs sur chacun des métiers</td></tr><tr><td>9</td><td>Acheter 100 000 000 dollars</td></tr><tr><td>10</td><td>Jouer 30 jours</td></tr></tbody></table>
+
+#### Palier 13
+
+<table><thead><tr><th width="131">Challenge</th><th>Type</th></tr></thead><tbody><tr><td>1</td><td>Miner 8192 minerais de chaque (Charbon, fer, or, diamant, émeraude, tanzanite)</td></tr><tr><td>2</td><td>Avoir 1 épe de niveau 8</td></tr><tr><td>3</td><td>Couper 8192 Bûches de chêne, bouleau, sapin, chêne noir, jungle, acacia</td></tr><tr><td>4</td><td>Récolter 40 000 patates, carottes, betteraves, citrouilles, pastèques, blés</td></tr><tr><td>5</td><td>Poser 1 000 000 blocs</td></tr><tr><td>6</td><td>Tuer 500 Ganon sur Aerion</td></tr><tr><td>7</td><td>Marcher 1 000 000 blocs</td></tr><tr><td>8</td><td>Obtenir 200 level jobs sur chacun des métiers</td></tr><tr><td>9</td><td>Acheter 1 000 000 000 dollars</td></tr><tr><td>10</td><td>Jouer 60 jours </td></tr></tbody></table>
+
+
+
 ### Crafts
 
 ### Tutoriel
