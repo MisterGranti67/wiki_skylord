@@ -63,6 +63,16 @@
 * /ap ne fonctionne pas sur la cobble stone et ancient débris :arrows\_clockwise:
 * "le /is expansion team 11 PSEUDO ne fonctionne pas même lorsque le joueur est mvp+, il s'arrête à 9" :arrows\_clockwise:
 * La pierre de teleportation te permet de glitch tout les block au spawn :arrows\_clockwise:
+* "Quand on n'a l'inventaire full de graine mais que un slot n'est que a 14graine par exemple bah on n'obtient pas la graine mais on perd la thune" :arrows\_clockwise:
+* "quand on met pret avant que l'autre mette l'item ca fait bug le trade" :arrows\_clockwise:
+* "les pets attaquent bien mais ne gagne pas d'xp" :arrows\_clockwise:
+* "j'ai une carte graphique dans un rig qui na pas d'usure (en gros elle me raporte de la thune mais reste a 0% d'usure)" :arrows\_clockwise:
+* "Je peut capturer mes pets alors qu'ils sont a moi" :arrows\_clockwise:
+* "capturer une monture dans la l'espace" à corriger" :arrows\_clockwise:
+* "ça fait 2 fois que j'ai une clé boutique dans une clé nebuleuse et que je fais bug les caisse a cause de cette clé" :arrows\_clockwise:
+* "8 joueurs dans le /voyage alors qu'on est 5" :arrows\_clockwise:
+* "J'ai vendu des clés à 6M au /ah et j'ai reçu 2x les 6M ;-;" :arrows\_clockwise:
+* "il y a un bug ou on peux fly dans l'évent" :arrows\_clockwise:
 * Upgrade hopper chunk sur la boutique obtenu avec la caisse boutique :arrows\_clockwise:
 * La quête journalière des saumons ne marche pas je suis à 0/15 alors que j'en ai pêcher 34 :arrows\_clockwise:
 * "iminent le /fly est activé au spawn au joueurs" :arrows\_clockwise:
