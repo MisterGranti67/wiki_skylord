@@ -36,7 +36,6 @@
 ## Modifications divers
 
 * **Missions journalières** : Un message au milieu de l'écran apparait pour dire que vous fini la mission. :thumbsup:
-* **Tanzanite et Fluorite** : Augmentation du taux de drop :arrows\_clockwise:
 * **Ganon** est maintenant plus simple :arrows\_clockwise:
 * **Changement du sucre sacré par canne à sucre sacré** :arrows\_clockwise:
 * **Miner avec l'inventaire plein** :arrows\_clockwise:
