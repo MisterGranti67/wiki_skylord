@@ -16,7 +16,9 @@
 * **Nouvelles armures** : Tanzanite, Fluorite, Mithril, Adamantine. Pas d'indication en plus pour le moment. :arrows\_clockwise:
 * **Empreinte carbone** : Taxe ou Bonus sur l'empreinte carbone que chaque joueur fait sur le serveur (pompe pétrole, fusée, etc.....) :arrows\_clockwise:
 * **API de Skylord** : Ajouts de certaines routes à l'api : Classements (île, vote, jobs, money), informations des joueurs (money, wallet, jobs, grade, rang, étoiles), informations d'île (membres, level, place dans le top, banque) :arrows\_clockwise:
-*
+* **Seau d'eau infini** : Un Seau d'eau infini va faire son apparition. Il sera disponible en craft et en boutique. Il devra être rempli en fonction des utilisations au forgeron. (C'est logique, ne vous inquiétez pas) :arrows\_clockwise:
+* **Troisième donjon** : Un nouveau donjon fait son apparition, disponible dans les voyages :arrows\_clockwise:
+* **Spawners** : Ajouts des spawners à poulpe et Noyé
 
 ## Modifications des crafts
 
@@ -33,7 +35,16 @@
 
 ## Modifications divers
 
-*
+* **Missions journalières** : Un message au milieu de l'écran apparait pour dire que vous fini la mission. :thumbsup:
+* **Tanzanite et Fluorite** : Augmentation du taux de drop :arrows\_clockwise:
+* **Ganon** est maintenant plus simple :arrows\_clockwise:
+* **Changement du sucre sacré par canne à sucre sacré** :arrows\_clockwise:
+* **Miner avec l'inventaire plein** :arrows\_clockwise:
+* **Transformation du cube féerique en générateur.** Plus d'explication à venir :arrows\_clockwise:
+* Refonte des parchemins céleste :arrows\_clockwise:
+* Modification des haches avec des Bonus. Plus d'explication à venir :arrows\_clockwise:
+* Les coquilles de nautilus peuvent être échangées au pêcheur :arrows\_clockwise:
+* Le sable des âmes fait son apparition dans le métier d'architecte :arrows\_clockwise:
 
 ## Les corrections de bugs
 
@@ -49,11 +60,21 @@
 * On peut utiliser la hache magique sans avoir /mine buy :arrows\_clockwise:
 * Le challenge 1 palier 10 fait que de ce reset sur les minerais normaux (j'étais à environ 1000 de chaque) :arrows\_clockwise:
 * Le palier 9 challenge 5 j'ai enchant les 128 houes en bois de une ça me la pas compté de 2 je suis a 0/128 :arrows\_clockwise:
+* Lors ce que l'on retire l'affichage de scotty, les effets sont enlevés aussi (au changement de planète) :arrows\_clockwise:
 * Toujours le bug du shop les joueurs ne peuvent pas vendre quand je suis pas sur mon ile :arrows\_clockwise:
 * Les montures font ont un problème de spawn :arrows\_clockwise:
 * Bug dans la quete "va voir scotty au spawn" :arrows\_clockwise:
 * Probleme avec les panneaux de vente/shop les gens de peuvent pas vendre si je sui sur mon ile :arrows\_clockwise:
 * Le /baltop dit d'aller derriere vous sauf qu'il n'y a rien :arrows\_clockwise:
+* "J'ai rename des shulks avec sacrée dedans, et quand je veux les poser ca me dis que je peux pas d'item sacrée x)" :arrows\_clockwise:
+* "la gemme que le kit joueur donne ne se stack pas avec les autres alors que c'est exactement la même" :arrows\_clockwise:
+* "quête journalière pêche elle ne fonctionne pas, que ça soit avec une canne à pêche vanilla ou la clochette" :thumbsup:
+* Les mushrooms cow ne se stackent que par 2500  :arrows\_clockwise:
+* elle a fumé je crois ... dès que je lance l'hameçon et le récupère elle m'envoie un message  "canne à pêche cyber" :arrows\_clockwise:
+* Le casque level 5 n'a pas de barre de dura comme sur le reste de l'armure :arrows\_clockwise:
+* La tanzanite n'est pas prise en compte pour cette quete, les autres minerais j'ai pas testé mais ça n'a pas l'air non plus :arrows\_clockwise:
+* J'ai ouvert une caisse bonus et j'ai eu cette item qui n'est plus a jour :arrows\_clockwise:
+* "J'suis aller réparer mes 42 cg, je faisais full remplir les slots vide, un moment ca a remplis que 2 (alors que j'en avais plus a réparer) donc refait instant remplir, et ca ma delet les deux qui étaient avant ... #RIP mes deux 4090" :arrows\_clockwise:
 * Quand on fait /bugreport report, il dit qu'on peut consulter la liste des reports mais en faisant la commande, c'est écrit de faire /bugreport report (bug) :arrows\_clockwise:
 * Le /ticket à revoir :arrows\_clockwise:
 * Les houes custom ne coupent pas les lianes :arrows\_clockwise:
