@@ -49,7 +49,7 @@
 
 ## Les corrections de bugs
 
-* Prix de vente ppalier 6 :arrows\_clockwise:
+* Prix de vente palier 6 :arrows\_clockwise:
 * Bug bottes level 7 qui donne level 9 au forgeron :arrows\_clockwise:
 * "Quand on tue des gobelins sur mécanica la monture ne gagne pas d'exp et ne perds pas de pv mais inflige des dégats" :arrows\_clockwise:
 * "Impossible d'allumer le rig qu'on a loué car il demande à être relié à un Network Wallet." :arrows\_clockwise:
