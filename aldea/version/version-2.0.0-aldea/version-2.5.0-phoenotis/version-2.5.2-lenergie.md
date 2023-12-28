@@ -18,7 +18,8 @@
 * **API de Skylord** : Ajouts de certaines routes à l'api : Classements (île, vote, jobs, money), informations des joueurs (money, wallet, jobs, grade, rang, étoiles), informations d'île (membres, level, place dans le top, banque) :arrows\_clockwise:
 * **Seau d'eau infini** : Un Seau d'eau infini va faire son apparition. Il sera disponible en craft et en boutique. Il devra être rempli en fonction des utilisations au forgeron. (C'est logique, ne vous inquiétez pas) :arrows\_clockwise:
 * **Troisième donjon** : Un nouveau donjon fait son apparition, disponible dans les voyages :arrows\_clockwise:
-* **Spawners** : Ajouts des spawners à poulpe et Noyé
+* **Spawners** : Ajouts des spawners à poulpe et Noyé :arrows\_clockwise:
+* **Passe de combat** : Ajout d'un passe de combat afin de centraliser les missions. Informations à venir. :arrows\_clockwise:
 
 ## Modifications des crafts
 
@@ -44,6 +45,7 @@
 * Modification des haches avec des Bonus. Plus d'explication à venir :arrows\_clockwise:
 * Les coquilles de nautilus peuvent être échangées au pêcheur :arrows\_clockwise:
 * Le sable des âmes fait son apparition dans le métier d'architecte :arrows\_clockwise:
+* Intégration de la fortune dans les haches :arrows\_clockwise:
 
 ## Les corrections de bugs
 
