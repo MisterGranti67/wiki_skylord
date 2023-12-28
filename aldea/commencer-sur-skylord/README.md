@@ -13,7 +13,7 @@ Ce wiki est un précieux point de départ pour découvrir davantage **Skylord** 
 Ajoute l'adresse du serveur : **PLAY.SKYLORD.FR** à ta liste de serveurs de jeux.&#x20;
 
 Attention ! La version du serveur est : **1.19.4**\
-**(Non compatible en 1.20+)**
+**(Toléré pour les version en 1.20+, mais risque de bugs graphique)**
 
 </details>
 
